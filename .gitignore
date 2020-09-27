@@ -1,0 +1,7 @@
+venv/
+.idea/
+multi_cased_L-12_H-768_A-12/
+uncased_L-12_H-768_A-12/
+best_models/
+venv_working/
+__pychache__
